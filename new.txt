@@ -1,0 +1,4 @@
+Name-Ivan Ivanov
+Age-26
+Pet-1 pug
+Salary-70000
