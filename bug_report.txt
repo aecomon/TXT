@@ -1,1 +1,9 @@
-
+Title
+Отсутвует раздел [Education] в Dropdown [Navbar], на Индонезийском языке
+Steps
+1. Открыть страницу
+2. Выбрать Индонезийский язык (Bahasa Indonesia)
+Expected result
+Присутвует вкладка Education
+Actual result
+Вкладка Education отсутвует
